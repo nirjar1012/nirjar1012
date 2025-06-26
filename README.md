@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything i can help with
 - 📫 How to reach me: ... nirjar000@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am always ready for growing and meeting new people.
+- ⚡ Fun fact: ... I am always ready to grow & learn and meet new people.
