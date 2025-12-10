@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on ... Bussiness Application(Personal Project)
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently learning ... React and TypeScript
 - 👯 I’m looking to collaborate on ... Business Application
 - 🤔 I’m looking for help with ... developing a LLM
 - 💬 Ask me about ... Anything i can help with
