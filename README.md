@@ -1,5 +1,27 @@
-# 💫 About Me:
-### Hi there 👋<br><br><!--<br>**nirjar1012/nirjar1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on ... Bussiness Application(Personal Project)<br>- 🌱 I’m currently learning ... React<br>- 👯 I’m looking to collaborate on ... Business Application<br>- 🤔 I’m looking for help with ... <br>- 💬 Ask me about ... Anything i can help with<br>- 📫 How to reach me: ... nirjar000@gmail.com<br>- 😄 Pronouns: ... He/Him<br>- ⚡ Fun fact: ...<br>--><br>- 🔭 I’m currently working on ... Bussiness Application(Personal Project)<br>- 🌱 I’m currently learning ... React and TypeScript<br>- 👯 I’m looking to collaborate on ... Business Application<br>- 🤔 I’m looking for help with ... developing a LLM<br>- 💬 Ask me about ... Anything i can help with<br>- 📫 How to reach me: ... nirjar000@gmail.com<br>- 😄 Pronouns: ... He/Him<br>- ⚡ Fun fact: ... I am always ready to grow & learn and meet new people.
+## Hi there 👋
+
+<!--
+**nirjar1012/nirjar1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... Bussiness Application(Personal Project)
+- 🌱 I’m currently learning ... React
+- 👯 I’m looking to collaborate on ... Business Application
+- 🤔 I’m looking for help with ... 
+- 💬 Ask me about ... Anything i can help with
+- 📫 How to reach me: ... nirjar000@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ...
+-->
+- 🔭 I’m currently working on ... Bussiness Application(Personal Project)
+- 🌱 I’m currently learning ... React and TypeScript
+- 👯 I’m looking to collaborate on ... Business Application
+- 🤔 I’m looking for help with ... developing a LLM
+- 💬 Ask me about ... Anything i can help with
+- 📫 How to reach me: ... nirjar000@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am always ready to grow & learn and meet new people.
 
 
 # 💻 Tech Stack:
