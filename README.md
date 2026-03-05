@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br><!--<br>**nirjar1012/nirjar1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on ... Bussiness Application(Personal Project)<br>- 🌱 I’m currently learning ... React<br>- 👯 I’m looking to collaborate on ... Business Application<br>- 🤔 I’m looking for help with ... <br>- 💬 Ask me about ... Anything i can help with<br>- 📫 How to reach me: ... nirjar000@gmail.com<br>- 😄 Pronouns: ... He/Him<br>- ⚡ Fun fact: ...<br>--><br>- 🔭 I’m currently working on ... Bussiness Application(Personal Project)<br>- 🌱 I’m currently learning ... React and TypeScript<br>- 👯 I’m looking to collaborate on ... Business Application<br>- 🤔 I’m looking for help with ... developing a LLM<br>- 💬 Ask me about ... Anything i can help with<br>- 📫 How to reach me: ... nirjar000@gmail.com<br>- 😄 Pronouns: ... He/Him<br>- ⚡ Fun fact: ... I am always ready to grow & learn and meet new people.
+# Hi there 👋<br><br><!--<br>**nirjar1012/nirjar1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on ... Bussiness Application(Personal Project)<br>- 🌱 I’m currently learning ... React<br>- 👯 I’m looking to collaborate on ... Business Application<br>- 🤔 I’m looking for help with ... <br>- 💬 Ask me about ... Anything i can help with<br>- 📫 How to reach me: ... nirjar000@gmail.com<br>- 😄 Pronouns: ... He/Him<br>- ⚡ Fun fact: ...<br>--><br>- 🔭 I’m currently working on ... Bussiness Application(Personal Project)<br>- 🌱 I’m currently learning ... React and TypeScript<br>- 👯 I’m looking to collaborate on ... Business Application<br>- 🤔 I’m looking for help with ... developing a LLM<br>- 💬 Ask me about ... Anything i can help with<br>- 📫 How to reach me: ... nirjar000@gmail.com<br>- 😄 Pronouns: ... He/Him<br>- ⚡ Fun fact: ... I am always ready to grow & learn and meet new people.
 
 
 # 💻 Tech Stack:
@@ -9,8 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nirjar1012&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirjar1012&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nirjar1012&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nirjar1012&limit=5&theme=dark&combine_all_yearly_contributions=true)
