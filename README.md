@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Business Application
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything i can help with
-- 📫 How to reach me: ... nirjar000@gmail.com
+- 📫 How to reach me: ... nirjar00000@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
 -->
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Business Application
 - 🤔 I’m looking for help with ... developing a LLM
 - 💬 Ask me about ... Anything i can help with
-- 📫 How to reach me: ... nirjar000@gmail.com
+- 📫 How to reach me: ... nirjar00000@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am always ready to grow & learn and meet new people.
 
