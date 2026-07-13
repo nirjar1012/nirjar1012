@@ -206,11 +206,8 @@ University of Regina
 <a href="https://github.com/nirjar1012">
   <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=F8FAFC" />
 </a>
-<a href="#"><!-- TODO: add your LinkedIn URL -->
+<a href="https://www.linkedin.com/in/nirjarpatel/"><!-- TODO: add your LinkedIn URL -->
   <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
-</a>
-<a href="mailto:REPLACE_WITH_YOUR_EMAIL"><!-- TODO: add your email -->
-  <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" />
 </a>
 <a href="#"><!-- TODO: add your portfolio URL -->
   <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=vercel&logoColor=F8FAFC" />
