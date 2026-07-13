@@ -1,39 +1,245 @@
-## Hi there 👋
+<div align="center">
 
 <!--
-**nirjar1012/nirjar1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Bussiness Application(Personal Project)
-- 🌱 I’m currently learning ... React
-- 👯 I’m looking to collaborate on ... Business Application
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... Anything i can help with
-- 📫 How to reach me: ... nirjar00000@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
+  HERO BANNER
+  Swap in the animated dark.svg / light.svg header (auto light/dark switching)
+  if you upload it to this repo — otherwise the typing SVG below stands alone.
 -->
-- 🔭 I’m currently working on ... Bussiness Application(Personal Project)
-- 🌱 I’m currently learning ... React and TypeScript
-- 👯 I’m looking to collaborate on ... Business Application
-- 🤔 I’m looking for help with ... developing a LLM
-- 💬 Ask me about ... Anything i can help with
-- 📫 How to reach me: ... nirjar00000@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am always ready to grow & learn and meet new people.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Nirjar — profile header" src="dark.svg" width="100%">
+</picture>
 
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![nirjar1012's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirjar1012&show_icons=true&theme=dark&count_private=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirjar1012&layout=compact&theme=dark)<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Nirjar+%F0%9F%91%8B;Computer+Science+Student+%40+University+of+Regina;Technical+Business+Analyst+%7C+GEM+Program;Building+with+Python%2C+React+%26+Data;Currently+open+to+Co-op+%2F+Internship+roles" alt="Typing SVG" />
+</a>
 
-### 🔝 Contribution Chart
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirjar1012&theme=github_dark)
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Co--op%20%2F%20Internship-9ece6a?style=for-the-badge&labelColor=1a1b26" />
+  <img src="https://komarev.com/ghpvc/?username=nirjar1012&style=for-the-badge&color=7aa2f7&labelColor=1a1b26&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/nirjar1012?style=for-the-badge&color=bb9af7&labelColor=1a1b26&label=FOLLOWERS" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=nirjar1012&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+## 🚀 About Me
+
+```yaml
+education:      B.Sc. Computer Science, University of Regina (4th Year)
+recognition:    Dean's List — Fall 2025, Winter 2026
+current_role:   Junior Technical Business Analyst, Government of Saskatchewan
+current_focus:  GEM Program — province-wide Oracle HCM deployment (w/ Deloitte)
+interests:      AI/ML tooling · transit systems · data-driven automation
+philosophy:     "Ship something real, then make it rigorous."
+looking_for:    Co-op / term positions in software development, data, or BA roles
+```
+
+I'm a Regina-based CS student who splits time between production business-analyst
+work on a province-wide Oracle HCM rollout and personal projects that lean into
+Python, data, and full-stack development. I like taking a messy, ambiguous
+problem — a stakeholder requirement, a public transit API, a noisy stock
+series — and turning it into something structured and shippable.
+
+<br>
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚌 [GoTransitRegina](https://github.com/nirjar1012/GoTransitRegina)
+Transit-data platform for Regina's bus network.
+
+- Python scripts pull live route & polyline data from the `transitlive.com`
+  API across **22 bus routes**, with structured JSON output and defensive
+  HTTP error handling
+- Architected toward a full-stack build-out: MVC structure, Jest test
+  coverage, REST APIs, event-driven cron prediction jobs, Twilio/VAPID push
+  notifications, JWT/RBAC auth, Google Maps integration, and CI/CD
+- **Stack:** `Python` `Node.js` `REST APIs` `JSON`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Stock Price Prediction Dashboard](https://github.com/nirjar1012)
+Time-series forecasting for Canadian equities.
+
+- LSTM and Prophet models built with `TensorFlow`, `Pandas`, and `NumPy`
+  to forecast Canadian tickers (RY.TO, SHOP.TO, ENB.TO)
+- Evaluated with RMSE / MAE / MAPE across models to compare forecast quality
+- Model output piped to CSV and visualized in interactive **Power BI**
+  dashboards
+- **Stack:** `Python` `TensorFlow` `Prophet` `Power BI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Chatty
+<!-- TODO: add a real description — problem it solves, architecture, stack -->
+> _Add a short write-up here: what it does, the core architecture decision,
+> and the stack you used._
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ GEM — Government Enterprise Modernization
+Province-wide Oracle HCM deployment with Deloitte.
+
+- Ran FUT/UAT testing cycles and logged/triaged defects in Deloitte Octane
+- Automated **700+ Job Profile records** via Excel formula logic, replacing
+  manual data entry
+- Collaborated directly with cross-functional stakeholders to validate
+  business requirements against system behavior
+- **Stack:** `Oracle HCM` `Excel/VBA` `Deloitte Octane`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ⚡ Engineering Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=7dcfff">
+<img src="https://img.shields.io/badge/C++-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=bb9af7">
+<img src="https://img.shields.io/badge/PHP-1a1b26?style=for-the-badge&logo=php&logoColor=7aa2f7">
+<img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=7aa2f7">
+<img src="https://img.shields.io/badge/SQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=9ece6a">
+
+**Frontend & Full Stack**
+<br>
+<img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7dcfff">
+<img src="https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC">
+<img src="https://img.shields.io/badge/Node.js-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=9ece6a">
+
+**Data & AI/ML**
+<br>
+<img src="https://img.shields.io/badge/TensorFlow-1a1b26?style=for-the-badge&logo=tensorflow&logoColor=ff9e64">
+<img src="https://img.shields.io/badge/Pandas-1a1b26?style=for-the-badge&logo=pandas&logoColor=bb9af7">
+<img src="https://img.shields.io/badge/NumPy-1a1b26?style=for-the-badge&logo=numpy&logoColor=7aa2f7">
+<img src="https://img.shields.io/badge/Power_BI-1a1b26?style=for-the-badge&logo=powerbi&logoColor=e0af68">
+
+**Cloud, Tools & Platform**
+<br>
+<img src="https://img.shields.io/badge/Azure-1a1b26?style=for-the-badge&logo=microsoftazure&logoColor=7aa2f7">
+<img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e">
+<img src="https://img.shields.io/badge/SharePoint-1a1b26?style=for-the-badge&logo=microsoftsharepoint&logoColor=7dcfff">
+<img src="https://img.shields.io/badge/Power_Automate-1a1b26?style=for-the-badge&logo=powerautomate&logoColor=bb9af7">
+<img src="https://img.shields.io/badge/Excel_VBA-1a1b26?style=for-the-badge&logo=microsoftexcel&logoColor=9ece6a">
+<img src="https://img.shields.io/badge/Visio-1a1b26?style=for-the-badge&logo=microsoftvisio&logoColor=7aa2f7">
+
+**AI Dev Tooling**
+<br>
+<img src="https://img.shields.io/badge/Claude_Code-1a1b26?style=for-the-badge&logo=anthropic&logoColor=bb9af7">
+<img src="https://img.shields.io/badge/ChatGPT-1a1b26?style=for-the-badge&logo=openai&logoColor=9ece6a">
+
+</div>
+
+<br>
+
+## 🌱 Currently Exploring
+
+- Deep Learning Specialization (following Andrew Ng's ML Specialization)
+- Closing the Pandas/data-manipulation gap ahead of deeper ML work
+- Production-grade architecture for GoTransitRegina — event-driven cron
+  prediction, push notifications, and CI/CD
+- System design fundamentals for backend and data-heavy applications
+
+<br>
+
+## 🏆 Competitive Programming & Achievements
+
+<!--
+  TODO: fill in real profile links/usernames below, then swap the badge
+  URLs to the corresponding stats card for each platform, e.g.:
+  https://leetcode-stats-two.vercel.app/api?username=YOUR_USERNAME
+-->
+
+| Platform | Profile |
+|---|---|
+| LeetCode | `[ADD YOUR LEETCODE USERNAME]` |
+| CodeChef | `[ADD YOUR CODECHEF USERNAME]` |
+| GeeksforGeeks | `[ADD YOUR GFG USERNAME]` |
+| HackerRank | `[ADD YOUR HACKERRANK USERNAME]` |
+| Codeforces | `[ADD YOUR CODEFORCES USERNAME]` |
+
+**Certifications:** `[ADD ANY CERTIFICATIONS HERE]`
+**Hackathons:** `[ADD ANY HACKATHON RESULTS HERE]`
+
+**Confirmed academic achievement:** Dean's List, Fall 2025 & Winter 2026 —
+University of Regina
+
+<br>
+
+## 📈 GitHub Metrics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nirjar1012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirjar1012&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirjar1012&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirjar1012&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nirjar1012&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="100%"/>
+
+</div>
+
+<!--
+  SNAKE CONTRIBUTION ANIMATION
+  This needs a one-time GitHub Action set up in a repo named `nirjar1012`
+  (a special "profile" repo). Add Platane/snk as a workflow, then it will
+  generate and update this SVG automatically on each push:
+  https://github.com/Platane/snk
+-->
+<div align="center">
+
+<!-- TODO: after setting up the Platane/snk action, uncomment:
+<img src="https://raw.githubusercontent.com/nirjar1012/nirjar1012/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+-->
+
+</div>
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/nirjar1012">
+  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=F8FAFC" />
+</a>
+<a href="#"><!-- TODO: add your LinkedIn URL -->
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
+</a>
+<a href="mailto:REPLACE_WITH_YOUR_EMAIL"><!-- TODO: add your email -->
+  <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" />
+</a>
+<a href="#"><!-- TODO: add your portfolio URL -->
+  <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=vercel&logoColor=F8FAFC" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> *"Ship something real, then make it rigorous."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=90&section=footer" width="100%"/>
+
+</div>
