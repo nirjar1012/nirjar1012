@@ -5,11 +5,11 @@
   Swap in the animated dark.svg / light.svg header (auto light/dark switching)
   if you upload it to this repo — otherwise the typing SVG below stands alone.
 -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
   <img alt="Nirjar — profile header" src="dark.svg" width="100%">
-</picture>
+</picture> -->
 
 <br>
 
