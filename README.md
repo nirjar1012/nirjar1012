@@ -53,7 +53,7 @@ series — and turning it into something structured and shippable.
 <tr>
 <td width="50%" valign="top">
 
-### 🚌 [GoTransitRegina](https://github.com/nirjar1012/GoTransitRegina)
+### 🚌 [GoTransitRegina](https://github.com/dev048patel/GoTransit)
 Transit-data platform for Regina's bus network.
 
 - Python scripts pull live route & polyline data from the `transitlive.com`
@@ -159,24 +159,8 @@ Province-wide Oracle HCM deployment with Deloitte.
 
 <br>
 
-## 🏆 Competitive Programming & Achievements
-
-<!--
-  TODO: fill in real profile links/usernames below, then swap the badge
-  URLs to the corresponding stats card for each platform, e.g.:
-  https://leetcode-stats-two.vercel.app/api?username=YOUR_USERNAME
--->
-
-| Platform | Profile |
-|---|---|
-| LeetCode | `[ADD YOUR LEETCODE USERNAME]` |
-| CodeChef | `[ADD YOUR CODECHEF USERNAME]` |
-| GeeksforGeeks | `[ADD YOUR GFG USERNAME]` |
-| HackerRank | `[ADD YOUR HACKERRANK USERNAME]` |
-| Codeforces | `[ADD YOUR CODEFORCES USERNAME]` |
-
 **Certifications:** `[ADD ANY CERTIFICATIONS HERE]`
-**Hackathons:** `[ADD ANY HACKATHON RESULTS HERE]`
+
 
 **Confirmed academic achievement:** Dean's List, Fall 2025 & Winter 2026 —
 University of Regina
