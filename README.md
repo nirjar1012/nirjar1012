@@ -178,7 +178,7 @@ University of Regina
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirjar1012&theme=tokyo-night&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nirjar1012&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="100%"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=nirjar1012&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="100%"/> -->
 
 </div>
 
