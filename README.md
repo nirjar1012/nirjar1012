@@ -30,13 +30,13 @@
 ## 🚀 About Me
 
 ```yaml
-education:      B.Sc. Computer Science, University of Regina (4th Year)
-recognition:    Dean's List — Fall 2025, Winter 2026
+education:       B.Sc. Computer Science, University of Regina (4th Year)
+recognition:     Dean's List — Fall 2025, Winter 2026
 previous_role:   Junior Technical Business Analyst, Government of Saskatchewan
 previous_focus:  GEM Program — province-wide Oracle HCM deployment (w/ Deloitte)
-interests:      AI/ML tooling · transit systems · data-driven automation
-philosophy:     "Ship something real, then make it rigorous."
-looking_for:    Co-op / term positions in software development, data, or BA roles
+interests:       AI/ML tooling · transit systems · data-driven automation
+philosophy:      "Ship something real, then make it rigorous."
+looking_for:     Co-op / term positions in software development, data, or BA roles
 ```
 
 I'm a Regina-based CS student who splits time between production business-analyst
